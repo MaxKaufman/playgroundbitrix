@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Main", 
+		"/content/main/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"6677", 
+		"", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"", 
+		"", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
